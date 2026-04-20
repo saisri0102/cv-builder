@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "docx": "^9.5.1",
+    "file-saver": "^2.0.5",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.2",
+    "pdfjs-dist": "^4.6.82",
+    "react-router-dom": "^7.7.1"
+  }
+}
